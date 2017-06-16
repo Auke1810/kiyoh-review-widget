@@ -2,7 +2,7 @@
 Contributors: AukeJomm
 Tags: schema.org, seo, reviews, kiyoh
 Requires at least: 4.6
-Tested up to: 4.7.3
+Tested up to: 4.8
 Stable tag: 1.4.0
 
 Kiyoh review score widget
