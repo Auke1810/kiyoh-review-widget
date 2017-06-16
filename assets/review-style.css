@@ -1,0 +1,41 @@
+/* page_widget_box */
+
+.wa-pa-kiyoh-shop-snippets{ margin: 0 0 1em; background: #fff; border: 1px solid #c4c4c4; padding: 20px 30px; }
+.wa-pa-kiyoh-shop-snippets .wa-pa-rating-box{
+	width: 91px; background: url('../img/rating-sprite.png') no-repeat 0 -15px; height: 15px; margin: 11px 10px 10px 10px;
+}
+.wa-pa-kiyoh-shop-snippets .wa-pa-rating-box .wa-pa-rating{
+    height: 15px; background: url('../img/rating-sprite.png') no-repeat 0 0; margin: 0;padding: 0;
+}
+.wa-pa-kiyoh-shop-snippets .wa-pa-rating-size{ font-size: 23px; font-weight:600;}
+.wa-pa-kiyoh-shop-snippets div.wa-pa-quote q { quotes: "“" "”" "‘" "’"; }
+.wa-pa-kiyoh-shop-snippets div.wa-pa-quote .wa-pa-more {}
+.wa-pa-kiyoh-shop-snippets div.wa-pa-quote .wa-pa-name {font-weight:400; }
+
+
+/* large_widget_box */
+
+.wa-kiyoh-shop-snippets{display: inline-block; /*font-size: 13px;*/}
+.wa-kiyoh-shop-snippets .wa-rating-box{
+	width: 91px; background: url('../img/rating-sprite.png') no-repeat 0 -15px; height: 15px; margin: 11px 10px 10px 10px;
+}
+.wa-kiyoh-shop-snippets .wa-rating-box .wa-rating{
+    height: 15px; background: url('../img/rating-sprite.png') no-repeat 0 0; margin: 0;padding: 0;
+}
+.wa-kiyoh-shop-snippets .wa-rating-size{ font-size: 23px; font-weight:600;}
+.wa-kiyoh-shop-snippets div.wa-quote q { quotes: "“" "”" "‘" "’"; }
+.wa-kiyoh-shop-snippets div.wa-quote .wa-more {}
+.wa-kiyoh-shop-snippets div.wa-quote .wa-name {font-weight:400; }
+
+
+/* small widget settings */
+.wa-sm-kiyoh-shop-snippets{display: inline-block; width:100%; font-size: 23px; font-weight:400;}
+.wa-sm-kiyoh-shop-snippets .wa-sm-rating-box{
+	width: 91px; background: url('../img/rating-sprite.png') no-repeat 0 -15px; height: 15px; margin: 5px 10px 5px 0px;
+}
+.wa-sm-kiyoh-shop-snippets .wa-sm-rating-box .wa-sm-rating{
+    height: 15px; background: url('../img/rating-sprite.png') no-repeat 0 0; margin: 0;padding: 0;
+}
+.wa-sm-kiyoh-shop-snippets .wa-sm-rating-size{ font-weight:400;}
+.wa-sm-kiyoh-shop-snippets div.wa-sm-quote q { quotes: "“" "”" "‘" "’"; }
+.wa-sm-kiyoh-shop-snippets .wa-sm-more { font-size: 13px; font-weight:100;}
