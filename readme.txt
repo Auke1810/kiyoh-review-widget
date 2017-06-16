@@ -33,4 +33,4 @@ Kiyoh reviews widget. Vertoond de score van de website of webshop in Kiyoh in ee
 * Twee verschillende widget formaten
 
 = 1.0.0 = 
-* First relaese
+* First release
